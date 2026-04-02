@@ -25,7 +25,7 @@ price = w1 * area + w2 * bedrooms + b
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - Python  
 - NumPy  
@@ -36,7 +36,7 @@ price = w1 * area + w2 * bedrooms + b
 ---
 
 
-## ⚠️ Limitations
+##  Limitations
 
 - Small dataset (20 samples)  
 - Linear model (cannot capture complex relationships)  
